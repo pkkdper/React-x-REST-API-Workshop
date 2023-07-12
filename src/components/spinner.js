@@ -7,7 +7,7 @@ const LoadingSpinner = () => {
     width="160"
     color="#4fa94d"
     ariaLabel="tail-spin-loading"
-    radius="2"
+    radius="2.1"
     wrapperStyle={{}}
     wrapperClass=""
     visible={true}
